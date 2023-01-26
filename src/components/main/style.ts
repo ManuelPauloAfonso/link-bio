@@ -16,7 +16,7 @@ border: 1px solid #EFF2F7;
 box-shadow: 0px 5px 12px rgba(8, 15, 52, 0.05);
 border-radius: 25px;
 width: 30rem;
-height: 48rem;
+min-height: 48rem;
 display: flex;
 justify-content: center;
 padding: 2rem;
